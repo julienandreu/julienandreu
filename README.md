@@ -15,9 +15,7 @@
 - Scalable Solutions
 - AWS
 
-## 💡 Always learning and innovating
-
----
+💡 Always learning and innovating
 
 ## 🔧 Technologies & Tools
 
@@ -26,19 +24,12 @@
 - **Cloud:** AWS, GCP
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
----
-
 ## 🌱 Currently exploring
 
 - Python
-
----
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/julien-andreu/)
 
----
-
-“Helping others and supporting team growth is my passion!”
-
+_“Helping others and supporting team growth is my passion!”_
