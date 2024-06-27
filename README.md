@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Julien Andreu
 
+![Julien Andreu](./assets/header.gif)
+
 👨‍💻 **Senior Programming Technical Lead at Behaviour Interactive**
 
 ---
@@ -13,6 +15,7 @@
 ---
 
 🌟 **Passionate about:**
+
 - Microservices Architecture
 - Scalable Solutions
 - AWS
@@ -21,7 +24,8 @@
 
 ---
 
-## 🔧 Technologies & Tools:
+## 🔧 Technologies & Tools
+
 - **Languages:** TypeScript, Rust, C#, JavaScript, PHP
 - **Frameworks:** Node.js, NextJS, React
 - **Cloud:** AWS, GCP
@@ -29,12 +33,14 @@
 
 ---
 
-## 🌱 Currently exploring:
+## 🌱 Currently exploring
+
 - Python
 
 ---
 
-## 📫 Let's Connect:
+## 📫 Let's Connect
+
 - [LinkedIn](https://www.linkedin.com/in/julien-andreu/)
 
 ---
