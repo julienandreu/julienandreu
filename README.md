@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Julien Andreu
 
-<!--
-**julienandreu/julienandreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Senior Programming Technical Lead at Behaviour Interactive**
 
-Here are some ideas to get you started:
+🌟 Passionate about:
+- Microservices Architecture
+- Scalable Solutions
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Always learning and innovating
+
+## 🔧 Technologies & Tools:
+- Languages: TypeScript, Rust, C#, JavaScript, PHP
+- Frameworks: Node.js, NextJS, React
+- Cloud: AWS, GCP
+- Databases: MySQL, PostgreSQL, MongoDB
+
+## 🌱 Currently exploring:
+- Python
+
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/julien-andreu/)
+
+---
+
+“Helping others and supporting team growth is my passion!”
+
